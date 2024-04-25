@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulloa</h1>
+I'm a fullstack developer passionate about creating amazing digital experiences. I love working in a team, sharing knowledge and learning new things. I am a curious, creative person and I am always looking for new challenges.
 
-I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=craftxdog" alt="craftxdog" /> </p>
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
