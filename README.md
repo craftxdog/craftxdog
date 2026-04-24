@@ -49,7 +49,6 @@
 </span>
 
 ## My statistics📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftxdog&theme=great-gatsby&layout=compact)](https://github.com/craftxdog)
 <p align="center">
     <a href="https://github.com/craftxdog/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=craftxdog&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
